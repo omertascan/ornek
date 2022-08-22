@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/omertascan/Masa%C3%BCst%C3%BC/Helloworld.c" added="2022-08-18T22:36:47.391682Z" modified="2022-08-18T22:36:47.391714Z" visited="2022-08-18T22:36:47.391683Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="emacs" exec="&apos;emacs %u&apos;" modified="2022-08-18T22:36:47.391712Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omertascan/Belgeler/HelloWorld.java" added="2022-08-19T05:49:12.427649Z" modified="2022-08-22T05:10:37.816158Z" visited="2022-08-19T05:49:12.427650Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="emacs" exec="&apos;emacs %u&apos;" modified="2022-08-19T05:49:12.427652Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2022-08-22T05:00:41.554816Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-08-22T05:10:37.816157Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/omertascan/Masa%C3%BCst%C3%BC/HelloWorld.java" added="2022-08-22T05:10:28.799198Z" modified="2022-08-22T05:14:23.208509Z" visited="2022-08-22T05:10:28.799198Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="emacs" exec="&apos;emacs %u&apos;" modified="2022-08-22T05:12:13.445931Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-08-22T05:14:23.208508Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

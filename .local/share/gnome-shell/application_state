@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="8" last-seen="1661147727"/>
+    <application id="gnome-initial-setup.desktop" score="2.5" last-seen="1660767444"/>
+    <application id="firefox_firefox.desktop" score="20583.5" last-seen="1661147771"/>
+    <application id="org.gnome.Terminal.desktop" score="235.5" last-seen="1661147764"/>
+    <application id="libreoffice-writer.desktop" score="0.5" last-seen="1660888337"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0.5" last-seen="1660887232"/>
+    <application id="apport-gtk.desktop" score="1.5" last-seen="1660769261"/>
+    <application id="emacs.desktop" score="45" last-seen="1661145149"/>
+    <application id="org.gnome.gedit.desktop" score="5" last-seen="1661145265"/>
+  </context>
+</application-state>
